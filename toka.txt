@@ -1,2 +1,3 @@
 asdasdas
 hurraa huraaaehco hurraa hurraaecho hurraa!  >> toka.txt
+nyt on villiä, kaks repoa samasta remotesta samalla koneella
