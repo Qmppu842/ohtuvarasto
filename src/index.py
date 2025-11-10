@@ -92,8 +92,8 @@ def mehovarasto_tarkastus1(mehua):
 
 
 def asd():
-    # tämä on pitkä rivi aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    # aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    # tämä on pitkä rivi aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    # aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     moi = 1 + 1
     moi2 = moi + moi
 
