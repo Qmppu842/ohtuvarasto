@@ -1,7 +1,7 @@
 [MASTER]
 
 ignore-paths=src/tests
-ignore=jotain.py
+ignore=main.yml
 
 [MESSAGE CONTROL]
 
