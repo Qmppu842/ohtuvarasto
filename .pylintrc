@@ -1,0 +1,31 @@
+[MASTER]
+
+ignore-paths=src/tests
+ignore=jotain.py
+
+[MESSAGE CONTROL]
+
+disable=raw-checker-failed,
+        bad-inline-option,
+        locally-disabled,
+        file-ignored,
+        suppressed-message,
+        useless-suppression,
+        deprecated-pragma,
+        use-symbolic-message-instead,
+        missing-module-docstring,
+        missing-function-docstring,
+        missing-class-docstring,
+        unrecognized-option
+
+[FORMAT]
+max-line-length=80
+indent-after-paren=9
+
+[REFACTORING]
+max-nested-blocks=2
+
+[DESIGN]
+max-args=4
+max-statements=10
+max-complexity= 6
