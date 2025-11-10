@@ -91,5 +91,22 @@ def mehovarasto_tarkastus1(mehua):
     print(f"Mehuvarasto: {mehua}")
 
 
+def asd():
+     #tämä on pitkä rivi aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+     moi = 1+ 1
+     moi2 = moi+moi
+     
+     if moi < moi2:
+        if moi + 3 < moi2:
+            if moi2 -5 > moi:
+                print(f"Kalaa")
+     if moi < moi2:
+        if moi + 3 < moi2:
+            if moi2 -5 > moi:
+                print(f"Kalaa")
+     pass
+
+
 if __name__ == "__main__":
     main()
+    asd()
